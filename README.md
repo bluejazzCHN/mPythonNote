@@ -6,5 +6,6 @@
 * OLED Screen -- U8g2 (I2C)
 * RGB Led -- WS2812
 * Sound and Light -- PIO
+* WiFi -- wifi
 
  * ![avatar](https://github.com/bluejazzCHN/mPythonNote/blob/master/handbit%20schematic%20circuit%20diagram.jpg)
